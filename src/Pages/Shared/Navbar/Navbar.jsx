@@ -62,10 +62,10 @@ const Navbar = () => {
       
     return (
         <div>
-            <header className="p-4 bg-gray-800 dark:bg-gray-100 text-gray-100 dark:text-gray-800">
+            <header className="p-4 bg-[#1F7A8C]  ">
 	<div className="container flex justify-between h-16 mx-auto md:justify-center md:space-x-8">
 		<ul className="items-stretch hidden space-x-3 md:flex">
-			<div className="flex items-center px-4 -mb-1 gap-2">
+			<div className="flex items-center px-4 -mb-1 gap-2 text-white">
                 {navOptions}
             </div>
 		</ul>
@@ -76,7 +76,7 @@ const Navbar = () => {
 			</svg>
 		</a>
 		<ul className="items-stretch hidden space-x-3 md:flex">
-        <div className="flex items-center px-4 -mb-1 gap-2">
+        <div className="flex items-center px-4 -mb-1 gap-2 text-white">
                 {navOptions2}
             </div>
 		</ul>

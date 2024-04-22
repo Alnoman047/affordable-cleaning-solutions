@@ -1,9 +1,11 @@
+import Cover from "../Shared/Cover/Cover";
+import serviceImg from "../../assets/22.jpg"
 
 
 const Services = () => {
     return (
         <div>
-            <h2>This is services</h2>
+            <Cover img={serviceImg} title="Services"></Cover>
         </div>
     );
 };

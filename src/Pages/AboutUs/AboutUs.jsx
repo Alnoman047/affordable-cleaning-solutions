@@ -3,7 +3,7 @@ import Cover from "../Shared/Cover/Cover";
 
 const AboutUs = () => {
   return (
-    <div>
+    <div className="text-[#022B3A]">
       {/* banner start */}
       <Cover img={serviceImg} title="About Us"></Cover>
       {/* banner end */}
@@ -37,14 +37,14 @@ const AboutUs = () => {
                   </p>
                   <div className="mt-12 space-y-12">
                     <div className="flex">
-                      <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                      <div className="flex-shrink-0 ">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7] ">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
                             viewBox="0 0 24 24"
                             stroke="currentColor"
-                            className="w-7 h-7"
+                            className="w-7 h-7 "
                           >
                             <path
                               strokeLinecap="round"
@@ -68,7 +68,7 @@ const AboutUs = () => {
                     </div>
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
@@ -98,7 +98,7 @@ const AboutUs = () => {
                     </div>
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
@@ -150,7 +150,7 @@ const AboutUs = () => {
                     <div className="mt-12 space-y-12">
                       <div className="flex">
                         <div className="flex-shrink-0">
-                          <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                          <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               fill="none"
@@ -180,7 +180,7 @@ const AboutUs = () => {
                       </div>
                       <div className="flex">
                         <div className="flex-shrink-0">
-                          <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                          <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               fill="none"
@@ -210,7 +210,7 @@ const AboutUs = () => {
                       </div>
                       <div className="flex">
                         <div className="flex-shrink-0">
-                          <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                          <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               fill="none"
@@ -262,7 +262,7 @@ const AboutUs = () => {
                   <div className="mt-12 space-y-12">
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
@@ -292,7 +292,7 @@ const AboutUs = () => {
                     </div>
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
@@ -322,7 +322,7 @@ const AboutUs = () => {
                     </div>
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center w-12 h-12 rounded-md dark:bg-violet-600 dark:text-gray-50">
+                        <div className="flex items-center justify-center w-12 h-12 rounded-md bg-[#BFDBF7]">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"

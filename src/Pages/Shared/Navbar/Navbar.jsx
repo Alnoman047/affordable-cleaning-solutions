@@ -1,20 +1,73 @@
+import { NavLink } from "react-router-dom";
 
 
 const Navbar = () => {
+    const navOptions = (
+        <>
+          <li>
+            <NavLink  to="/">
+              Home
+            </NavLink>
+          </li>
+    
+          <li>
+            <NavLink
+              
+              to="/services"
+            >
+              Services
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              
+              to="/gallery"
+            >
+              Gallery
+            </NavLink>
+          </li>
+          
+        </>
+      );
+
+      const navOptions2 = (
+        <>
+        <li>
+            <NavLink
+              
+              to="/about"
+            >
+              About Us
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              
+              to="/blog"
+            >
+              Blogs
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              
+              to="/contact"
+            >
+              Contact Us
+            </NavLink>
+          </li>
+        </>
+      );
+
+      
     return (
         <div>
             <header className="p-4 bg-gray-800 dark:bg-gray-100 text-gray-100 dark:text-gray-800">
 	<div className="container flex justify-between h-16 mx-auto md:justify-center md:space-x-8">
 		<ul className="items-stretch hidden space-x-3 md:flex">
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-">Link</a>
-			</li>
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-">Link</a>
-			</li>
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border- text-violet-400 dark:text-violet-600 border-violet-400 dark:border-violet-600">Link</a>
-			</li>
+			<div className="flex items-center px-4 -mb-1 gap-2">
+                {navOptions}
+            </div>
 		</ul>
 		<a rel="noopener noreferrer" href="#" aria-label="Back to homepage" className="flex items-center p-2">
 			<svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 32 32" className="w-8 h-8 text-violet-400 dark:text-violet-600">
@@ -23,15 +76,9 @@ const Navbar = () => {
 			</svg>
 		</a>
 		<ul className="items-stretch hidden space-x-3 md:flex">
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-">Link</a>
-			</li>
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-">Link</a>
-			</li>
-			<li className="flex">
-				<a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 dark:border-">Link</a>
-			</li>
+        <div className="flex items-center px-4 -mb-1 gap-2">
+                {navOptions2}
+            </div>
 		</ul>
 		<button title="Button" type="button" className="p-4 md:hidden">
 			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-6 h-6 text-gray-100 dark:text-gray-800">

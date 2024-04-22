@@ -1,9 +1,12 @@
+import Banner from "./Banner/Banner";
+import Featured from "./Featured/Featured";
 
 
 const Home = () => {
     return (
         <div>
-            <h2 className="text-black text-2xl">this is home</h2>
+            <Banner></Banner>
+            <Featured></Featured>
         </div>
     );
 };

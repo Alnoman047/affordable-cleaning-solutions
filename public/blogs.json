@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "blog_title": "5 Affordable Residential Cleaning Hacks You Need to Try Today",
+      "blog_img": "https://i.ibb.co/qgzxbpb/21.jpg",
+      "blog_description": "Discover easy and cost-effective cleaning tips for keeping your home sparkling clean without breaking the bank.",
+      "blog_date": "2024-04-22"
+    },
+    {
+      "id": 2,
+      "blog_title": "Maximizing Efficiency: Commercial Cleaning Strategies for Small Businesses",
+      "blog_img": "https://i.ibb.co/FYhpmQ8/27.jpg",
+      "blog_description": "Learn how small businesses can maintain a clean and hygienic workplace affordably with smart cleaning techniques.",
+      "blog_date": "2024-04-18"
+    },
+    {
+      "id": 3,
+      "blog_title": "The Importance of Eco-Friendly Cleaning Products in Residential Spaces",
+      "blog_img": "https://i.ibb.co/9wzjvLN/13.jpg",
+      "blog_description": "Explore the benefits of using eco-friendly cleaning products for maintaining a healthy and sustainable home environment.",
+      "blog_date": "2024-04-15"
+    },
+    {
+      "id": 4,
+      "blog_title": "Cost-Effective Cleaning Solutions: Tips from Our Expert Cleaners",
+      "blog_img": "https://i.ibb.co/CznrYNy/4.jpg",
+      "blog_description": "Get insider tips from our cleaning experts on how to achieve professional-grade results without breaking the bank.",
+      "blog_date": "2024-04-10"
+    },
+    {
+      "id": 5,
+      "blog_title": "Streamlining Your Office Cleaning Routine: Budget-Friendly Tips",
+      "blog_img": "https://i.ibb.co/fv1Xxbq/14.jpg",
+      "blog_description": "Discover practical and budget-friendly strategies for maintaining a clean and organized office space.",
+      "blog_date": "2024-04-05"
+    },
+    {
+      "id": 6,
+      "blog_title": "Affordable Cleaning Products: Finding Quality on a Budget",
+      "blog_img": "https://i.ibb.co/XsMdFCn/15.jpg",
+      "blog_description": "Learn how to select effective cleaning products that deliver excellent results without breaking the bank.",
+      "blog_date": "2024-03-28"
+    },
+    {
+      "id": 7,
+      "blog_title": "Creating a Cleaning Schedule for Your Business: Tips and Tricks",
+      "blog_img": "https://i.ibb.co/qp9DHqd/9.jpg",
+      "blog_description": "Discover how to create a customized cleaning schedule that meets the needs of your business while staying within budget.",
+      "blog_date": "2024-03-22"
+    },
+    {
+      "id": 8,
+      "blog_title": "5 DIY Cleaning Solutions You Can Make at Home for Less",
+      "blog_img": "https://i.ibb.co/tJyPVX9/26.jpg",
+      "blog_description": "Explore simple and affordable DIY cleaning solutions using common household ingredients for a cleaner home.",
+      "blog_date": "2024-03-18"
+    },
+    {
+      "id": 9,
+      "blog_title": "The Cost-Saving Benefits of Outsourcing Your Cleaning Services",
+      "blog_img": "https://i.ibb.co/L0B6p93/19.jpg",
+      "blog_description": "Learn how outsourcing your cleaning services can save you money while ensuring a consistently clean environment.",
+      "blog_date": "2024-03-12"
+    },
+    {
+      "id": 10,
+      "blog_title": "Budget-Friendly Cleaning Tips for Busy Families",
+      "blog_img": "https://i.ibb.co/6R7tPnr/11.jpg",
+      "blog_description": "Discover time-saving cleaning tips and tricks that fit seamlessly into the busy schedules of modern families.",
+      "blog_date": "2024-03-08"
+    },
+    {
+      "id": 11,
+      "blog_title": "The Economics of Green Cleaning: Saving Money While Saving the Planet",
+      "blog_img": "https://i.ibb.co/s3sdhmg/2.jpg",
+      "blog_description": "Explore how adopting green cleaning practices can benefit both your budget and the environment.",
+      "blog_date": "2024-03-03"
+    },
+    {
+      "id": 12,
+      "blog_title": "Affordable Cleaning Solutions: Tips from Our Company's CEO",
+      "blog_img": "https://i.ibb.co/QX4PsjP/18.jpg",
+      "blog_description": "Get exclusive cleaning tips from our company's CEO on achieving a clean and healthy living or working space affordably.",
+      "blog_date": "2024-02-29"
+    }
+  ]
+  
